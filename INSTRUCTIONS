@@ -1,0 +1,65 @@
+###################################                        
+LAUNCH MULTIPLE GUIS AT ONCE: (terminal 1)
+###################################                        
+cd ~/Desktop/AI_composition_assistant/v0.01
+source ~/anaconda3/bin/activate
+conda activate AI_composer_GUIs_
+./launch_all_guis.sh
+
+
+###################################                        
+LAUNCH DASHBOARD: (terminal 2)
+###################################                        
+cd ~/Desktop/AI_composition_assistant/v0.01/dashboard
+source ~/anaconda3/bin/activate
+conda activate AI_composer_GUIs_
+python dashboard_v5.py
+
+
+###################################                        
+SCALING ISSUE WHEN OPENING FILE SELECTION FROM ALL GUIS:
+###################################
+ALSO FOR THIS PC, TO FIX THE ISSUES WITH THE GUIS WHEN YOU OPEN FILE SELECTION (LOOKING TOO SMALL)
+JUST SET SCALING TO 100% (INSTEAD OF 125%)!
+
+
+
+
+
+
+###################################                        
+INSTRUCTIONS FOR RETRAINING MUSICGEN MODELS:
+###################################
+
+
+##############  THIS IS TO REGENERATE RETRAINING DATASET
+	0.source ~/anaconda3/bin/activate
+	  conda activate musicgen_retrain
+	
+	1.choose the songs you want and put them in the 
+	/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/training_songs 
+	folder in the specified format.
+
+	2.run song_cutter.py (if needed) (from GUI) 
+
+	3.delete punk_dataset folder inside musicgen-dreamboothing folder
+
+        4. cd ~/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing
+
+	5.run: (musicgen_retrain) alels_star@pop-os:~/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing$ python create_dataset_from_songs.py       /home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/training_songs       --out punk_dataset                     --chunk --fix_audio --auto_split 0.9
+
+
+##############  THIS IS TO RETRAIN MODEL BASED ON THE NEWLY CREATED DATASET
+5. delete /home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/musicgen-melody-lora-punk
+  folder where any previous retrained model was stored.
+6.run dreambooth_musicgen improved.py (from spyder GUI)
+
+##############  THIS IS TO CHECK THE BASE VS THE CREATED MODEL
+7.run check_modified_vs_base_model3.py (from spyder GUI)  
+
+  or
+
+  run check_modified_vs_base_model_for_continuations2.py (from spyder GUI))
+  
+  
+  

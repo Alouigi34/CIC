@@ -1,0 +1,5 @@
+# 1. mark the installer as executable
+chmod +x gpt4all-installer-linux.run
+
+# 2. launch the installer
+./gpt4all-installer-linux.run

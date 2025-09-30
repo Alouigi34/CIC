@@ -1,0 +1,14 @@
+audio,split
+/tmp/tmpvgaglfj1/train/song1_fixed_a_000.wav,train
+/tmp/tmpvgaglfj1/train/song1_fixed_b_000.wav,train
+/tmp/tmpvgaglfj1/train/song1_fixed_c_000.wav,train
+/tmp/tmpvgaglfj1/train/song1_fixed_d_000.wav,train
+/tmp/tmpvgaglfj1/train/song2_fixed_a_000.wav,train
+/tmp/tmpvgaglfj1/train/song2_fixed_b_000.wav,train
+/tmp/tmpvgaglfj1/train/song2_fixed_c_000.wav,train
+/tmp/tmpvgaglfj1/train/song2_fixed_d_000.wav,train
+/tmp/tmpvgaglfj1/train/song2_fixed_e_000.wav,train
+/tmp/tmpvgaglfj1/validation/song4_fixed_a_000.wav,validation
+/tmp/tmpvgaglfj1/validation/song4_fixed_b_000.wav,validation
+/tmp/tmpvgaglfj1/validation/song4_fixed_c_000.wav,validation
+/tmp/tmpvgaglfj1/validation/song4_fixed_d_000.wav,validation

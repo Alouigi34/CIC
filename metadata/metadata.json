@@ -1,0 +1,181 @@
+{
+  "generated_data/RAVE/song2_cutted_out.wav": {
+    "generated_at": "2025-06-24T23:20:57.884233",
+    "source_wav": "input_data/RAVE/song2_cutted.wav",
+    "output_wav": "generated_data/RAVE/song2_cutted_out.wav",
+    "model": "nasa.ts",
+    "duration": 9000001.0,
+    "notes": "Duration: 9000001.0; Model: nasa.ts; interesting timbre",
+    "provenance": ""
+  },
+  "common_data_space/generated_data/BasicPitch/song2_cutted_BasicPitch.mid": {
+    "generated_at": "2025-06-24T21:31:07.394895",
+    "source_wav": "v0.01/common_data_space/input_data/BasicPitch/song2_cutted.wav",
+    "output_midi": "common_data_space/generated_data/BasicPitch/song2_cutted_BasicPitch.mid",
+    "notes": "Input WAV: song2_cutted.wav; Output Dir: BasicPitch",
+    "provenance": ""
+  },
+  "generated_data/BasicPitch/song2_cutted_BasicPitch.mid": {
+    "generated_at": "2025-06-24T21:36:50.591069",
+    "source_wav": "input_data/BasicPitch/song2_cutted.wav",
+    "output_midi": "generated_data/BasicPitch/song2_cutted_BasicPitch.mid",
+    "notes": "Input WAV: song2_cutted.wav; Output Dir: BasicPitch",
+    "provenance": ""
+  },
+  "generated_data/custom_generators/TCN_midi_generator/reference_piece0_piano_version.mid": {
+    "generated_at": "2025-06-24T21:42:10.804594",
+    "source_midi": "input_data/custom_generators/TCN_midi_generator/reference_piece0_piano_version.mid",
+    "output_pred": "generated_data/custom_generators/TCN_midi_generator/reference_piece0_piano_version.mid",
+    "mode": "option_1",
+    "skip_threshold": 10,
+    "retrain": false,
+    "notes": "Input: reference_piece0_piano_version.mid; Output: TCN_midi_generator; Mode: option_1; Skip< 10; Retrain: False",
+    "provenance": ""
+  },
+  "generated_data/custom_generators/TCN_midi_generator/reconstructed_final_real_numpy_actual.mid": {
+    "generated_at": "2025-06-24T22:08:54.472477",
+    "source_midi": "input_data/custom_generators/TCN_midi_generator/reference_piece0_piano_version.mid",
+    "output_predict": "generated_data/custom_generators/TCN_midi_generator/reconstructed_final_real_numpy_actual.mid",
+    "mode": "option_1",
+    "skip_threshold": 10,
+    "retrain": false,
+    "notes": "Input: reference_piece0_piano_version.mid; Output Dir: TCN_midi_generator; Mode: option_1; Skip< 10; Retrain: False",
+    "provenance": ""
+  },
+  "generated_data/custom_generators/TCN_midi_generator/reconstructed_final_predicted_numpy_actual.mid": {
+    "generated_at": "2025-06-24T22:08:54.472477",
+    "source_midi": "input_data/custom_generators/TCN_midi_generator/reference_piece0_piano_version.mid",
+    "output_predict": "generated_data/custom_generators/TCN_midi_generator/reconstructed_final_predicted_numpy_actual.mid",
+    "mode": "option_1",
+    "skip_threshold": 10,
+    "retrain": false,
+    "notes": "Input: reference_piece0_piano_version.mid; Output Dir: TCN_midi_generator; Mode: option_1; Skip< 10; Retrain: False",
+    "provenance": ""
+  },
+  "generated_data/custom_generators/TCN_midi_generator/reference_piece_piano_version.mid": {
+    "generated_at": "2025-06-24T22:08:54.472477",
+    "source_midi": "input_data/custom_generators/TCN_midi_generator/reference_piece0_piano_version.mid",
+    "output_predict": "generated_data/custom_generators/TCN_midi_generator/reference_piece_piano_version.mid",
+    "mode": "option_1",
+    "skip_threshold": 10,
+    "retrain": false,
+    "notes": "Input: reference_piece0_piano_version.mid; Output Dir: TCN_midi_generator; Mode: option_1; Skip< 10; Retrain: False",
+    "provenance": ""
+  },
+  "generated_data/custom_generators/TCN_wav_generator/input_buffer_mfcc_samples_song_984.wav": {
+    "generated_at": "2025-06-24T23:02:10.580229",
+    "source_wav": "input_data/custom_generators/TCN_wav_generator/song1.wav",
+    "output_wav": "generated_data/custom_generators/TCN_wav_generator/input_buffer_mfcc_samples_song_984.wav",
+    "model": "model1",
+    "use_index": false,
+    "index_value": 984,
+    "length_pct": 1.0,
+    "retrain": false,
+    "notes": "Model: model1; Input: song1.wav; Output Dir: TCN_wav_generator; UseIdx: False; Index: 984; Len%: 1.00; Retrain: False",
+    "provenance": ""
+  },
+  "generated_data/custom_generators/TCN_wav_generator/predicted_song_wiener_984.wav": {
+    "generated_at": "2025-06-24T23:02:10.580229",
+    "source_wav": "input_data/custom_generators/TCN_wav_generator/song1.wav",
+    "output_wav": "generated_data/custom_generators/TCN_wav_generator/predicted_song_wiener_984.wav",
+    "model": "model1",
+    "use_index": false,
+    "index_value": 984,
+    "length_pct": 1.0,
+    "retrain": false,
+    "notes": "Model: model1; Input: song1.wav; Output Dir: TCN_wav_generator; UseIdx: False; Index: 984; Len%: 1.00; Retrain: False",
+    "provenance": ""
+  },
+  "generated_data/custom_generators/TCN_wav_generator/direct_from_mfcc_song_984.wav": {
+    "generated_at": "2025-06-24T23:02:10.580229",
+    "source_wav": "input_data/custom_generators/TCN_wav_generator/song1.wav",
+    "output_wav": "generated_data/custom_generators/TCN_wav_generator/direct_from_mfcc_song_984.wav",
+    "model": "model1",
+    "use_index": false,
+    "index_value": 984,
+    "length_pct": 1.0,
+    "retrain": false,
+    "notes": "Model: model1; Input: song1.wav; Output Dir: TCN_wav_generator; UseIdx: False; Index: 984; Len%: 1.00; Retrain: False",
+    "provenance": ""
+  },
+  "generated_data/custom_generators/TCN_wav_generator/input_song.wav": {
+    "generated_at": "2025-06-24T23:02:10.580229",
+    "source_wav": "input_data/custom_generators/TCN_wav_generator/song1.wav",
+    "output_wav": "generated_data/custom_generators/TCN_wav_generator/input_song.wav",
+    "model": "model1",
+    "use_index": false,
+    "index_value": 984,
+    "length_pct": 1.0,
+    "retrain": false,
+    "notes": "Model: model1; Input: song1.wav; Output Dir: TCN_wav_generator; UseIdx: False; Index: 984; Len%: 1.00; Retrain: False",
+    "provenance": ""
+  },
+  "generated_data/DDSP/song2_cutted_Violin.wav": {
+    "generated_at": "2025-06-24T23:05:27.437650",
+    "source_wav": "input_data/DDSP/song2_cutted.wav",
+    "output_wav": "generated_data/DDSP/song2_cutted_Violin.wav",
+    "model": "Violin",
+    "notes": "Model: Violin; Input: song2_cutted.wav; Output Dir: DDSP",
+    "provenance": ""
+  },
+  "generated_data/fluidsynth/input_cutted__AcousticGrandPiano.wav": {
+    "generated_at": "2025-06-24T23:08:14.696775",
+    "source_midi": "input_data/fluidsynth/input_cutted_.mid",
+    "output_wav": "generated_data/fluidsynth/input_cutted__AcousticGrandPiano.wav",
+    "instrument": "AcousticGrandPiano",
+    "notes": "Instrument: AcousticGrandPiano; Input: input_cutted_.mid; Output Dir: fluidsynth",
+    "provenance": ""
+  },
+  "generated_data/fluidsynth/input_cutted__Accordion.wav": {
+    "generated_at": "2025-06-24T23:09:19.043653",
+    "source_midi": "input_data/fluidsynth/input_cutted_.mid",
+    "output_wav": "generated_data/fluidsynth/input_cutted__Accordion.wav",
+    "instrument": "Accordion",
+    "notes": "Instrument: Accordion; Input: input_cutted_.mid; Output Dir: fluidsynth; that is a nice tune",
+    "provenance": ""
+  },
+  "generated_data/magenta/2025-06-24_231530_1.mid": {
+    "generated_at": "2025-06-24T23:15:21.629686",
+    "mode": "generate",
+    "bundle": "performance_with_dynamics.mag",
+    "primer": "input_cutted_.mid",
+    "output": "generated_data/magenta/2025-06-24_231530_1.mid",
+    "notes": "Pretrained: True; Bundle: performance_with_dynamics.mag; Primer: input_cutted_.mid; Outputs: 3; Steps: 4000; Temp: 1.0",
+    "provenance": ""
+  },
+  "generated_data/magenta/2025-06-24_231530_2.mid": {
+    "generated_at": "2025-06-24T23:15:21.629686",
+    "mode": "generate",
+    "bundle": "performance_with_dynamics.mag",
+    "primer": "input_cutted_.mid",
+    "output": "generated_data/magenta/2025-06-24_231530_2.mid",
+    "notes": "Pretrained: True; Bundle: performance_with_dynamics.mag; Primer: input_cutted_.mid; Outputs: 3; Steps: 4000; Temp: 1.0",
+    "provenance": ""
+  },
+  "generated_data/magenta/2025-06-24_231530_3.mid": {
+    "generated_at": "2025-06-24T23:15:21.629686",
+    "mode": "generate",
+    "bundle": "performance_with_dynamics.mag",
+    "primer": "input_cutted_.mid",
+    "output": "generated_data/magenta/2025-06-24_231530_3.mid",
+    "notes": "Pretrained: True; Bundle: performance_with_dynamics.mag; Primer: input_cutted_.mid; Outputs: 3; Steps: 4000; Temp: 1.0",
+    "provenance": ""
+  },
+  "generated_data/musicgen/output.wav.wav": {
+    "generated_at": "2025-06-24T23:18:00.486826",
+    "mode": "chroma",
+    "model_id": "melody",
+    "duration_s": 16,
+    "description": "water",
+    "output_file": "generated_data/musicgen/output.wav.wav",
+    "notes": "Mode: chroma; Model: melody; Duration: 16s; Desc: water",
+    "provenance": ""
+  },
+  "generated_data/magenta/2025-06-23_165137_2.mid": {
+    "tags": [
+      "magenta continuation"
+    ],
+    "notes": "Magenta continuation proposal based on: Beethoven_somata_1_partitioned1.mic, \nLength:3000, model: performance_with_dynamics\nTemperature: 1.1,\nuser notes:",
+    "provenance": ""
+  }
+}

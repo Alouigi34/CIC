@@ -1,0 +1,77 @@
+#####################################
+musicgen
+#####################################
+source ~/anaconda3/bin/activate
+conda create -n musicgen_ python=3.10 -y
+conda activate musicgen_
+pip install git+https://github.com/facebookresearch/audiocraft.git
+conda install "ffmpeg<5" -c conda-forge
+
+
+
+#####################################
+magenta
+#####################################
+source ~/anaconda3/bin/activate
+conda create -n magenta_ python=3.7.12 -y
+conda activate magenta_
+sudo apt-get install build-essential libasound2-dev libjack-dev portaudio19-dev
+--close and reopen terminal and then:
+pip install magenta
+
+
+
+#####################################
+custom generators (TCN)
+#####################################
+source ~/anaconda3/bin/activate
+conda env list
+conda create --name custom_generators_ python=3.9.20 -y
+conda activate custom_generators_
+pip install tensorflow==2.13
+pip install torch==2.0.1+cpu torchvision==0.15.2+cpu torchaudio==2.0.2+cpu --index-url https://download.pytorch.org/whl/cpu
+pip install librosa
+pip install matplotlib
+pip install mido
+pip install pretty_midi
+
+
+
+#####################################
+RAVE - DDSP - FLUIDSYNTH - BASICPITCH
+#####################################
+source ~/anaconda3/bin/activate
+conda env list
+conda create --name transformers_ python=3.8 -y
+conda activate transformers_
+sudo apt-get install libsndfile-dev
+sudo apt-get -y install libc-dev
+pip install --upgrade pip  # Ensure pip is up-to-date
+pip install setuptools==65.5.0
+pip install -e git+https://github.com/magenta/ddsp.git#egg=ddsp
+sudo apt-get install ffmpeg
+pip install torch==2.0.1+cpu torchvision==0.15.2+cpu torchaudio==2.0.2+cpu --index-url https://download.pytorch.org/whl/cpu
+pip install matplotlib
+pip install basic-pitch
+pip install pretty_midi
+pip install pyFluidSynth
+pip install soundfile
+pip install basic-pitch
+
+
+
+
+#####################################
+GUIS
+#####################################
+source ~/anaconda3/bin/activate
+conda create -n AI_composer_GUI_ python=3.10 -y
+conda activate AI_composer_GUI_
+pip install pygame
+sudo apt install python3-tk
+----- for dashboard GUI:
+pip install librosa
+pip install matplotlib
+pip install pretty_midi
+pip install music21
+

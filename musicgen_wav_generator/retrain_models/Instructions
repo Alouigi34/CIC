@@ -1,0 +1,21 @@
+source ~/anaconda3/bin/activate
+conda activate musicgen_retrain
+
+
+##############  THIS IS TO REGENERATE RETRAINING DATASET
+	1.choose the songs you want and put them in the 
+	/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/training_songs 
+	folder in the specified format.
+
+	2.run song_cutter.py (from GUI) if needed
+
+	3.delete punk_dataset folder inside musicgen-dreamboothing folder
+
+	4.run: (musicgen_retrain) alels_star@pop-os:~/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing$ python create_dataset_from_songs.py       /home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/training_songs       --out punk_dataset                     --chunk --fix_audio --auto_split 0.9
+
+
+##############  THIS IS TO RETRAIN MODEL BASED ON THE NEWLY CREATED DATASET
+5.run dreambooth_musicgen improved.py
+
+##############  THIS IS TO CHECK THE BASE VS THE CREATED MODEL
+6.run check_modified_vs_base_model.py

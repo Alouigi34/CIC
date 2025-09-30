@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/alels_star/Desktop/AI_composition_assistant/v0.01/magenta_midi_generator/train/model.ckpt-38"
+all_model_checkpoint_paths: "/home/alels_star/Desktop/AI_composition_assistant/v0.01/magenta_midi_generator/train/model.ckpt-0"
+all_model_checkpoint_paths: "/home/alels_star/Desktop/AI_composition_assistant/v0.01/magenta_midi_generator/train/model.ckpt-19"
+all_model_checkpoint_paths: "/home/alels_star/Desktop/AI_composition_assistant/v0.01/magenta_midi_generator/train/model.ckpt-38"

@@ -1,0 +1,28 @@
+INSTALLATION:
+
+source ~/anaconda3/bin/activate
+conda create -n magenta1 python=3.7.12
+conda activate magenta1
+sudo apt-get install build-essential libasound2-dev libjack-dev portaudio19-dev
+
+--close and reopen terminal and then:
+
+pip install magenta
+ pip install spyder-kernels
+conda install -c conda-forge spyder
+
+spyder
+
+############################################################################
+MODELS DOWNLOADED FROM:
+https://github.com/magenta/magenta/tree/main/magenta/models/performance_rnn
+
+
+############################################################################
+untitled.py is for midi continuation
+untitled0.py is for training from scratch or training refinement
+
+NOTE! Before you run untitled0.py to train first delete 
+/home/alels_star/Desktop/ekpa_diplom/magenta/train
+folder!
+

@@ -1,0 +1,37 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 38529,
+  "description": "",
+  "download_checksums": {
+    "/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/paths.csv": {
+      "num_bytes": 37557,
+      "checksum": null
+    }
+  },
+  "download_size": 37557,
+  "features": {
+    "audio": {
+      "_type": "Audio"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 76086,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 38529,
+      "num_examples": 197,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

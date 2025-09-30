@@ -1,0 +1,198 @@
+audio,split
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/01 Incidences_Résonances_part001_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/01 Incidences_Résonances_part012_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/01 Incidences_Résonances_part013_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/02 Accidents_Harmoniques_part002_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/02 Accidents_Harmoniques_part007_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/03 Géologie Sonore_part001_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/03 Géologie Sonore_part006_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/03 Géologie Sonore_part007_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/03 Géologie Sonore_part014_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part001_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part002_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part003_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part004_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part005_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part006_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part007_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part008_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part009_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part010_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part011_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/04 Dynamique De La Résonance_part012_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part001_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part002_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part003_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part004_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part005_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part006_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part007_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part008_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part009_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part010_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part011_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part012_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part013_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part014_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part015_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part016_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part017_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part018_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part019_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part020_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part021_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part022_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part023_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part024_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part025_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part026_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/05 Étude Élastique_part027_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part001_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part002_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part003_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part004_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part005_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part010_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part011_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part012_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part014_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part015_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part016_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part017_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part019_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part020_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/06 Conjugaison Du Timbre_part021_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part001_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part002_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part003_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part004_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part005_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part006_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part007_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part008_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part009_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part010_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part011_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part012_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part013_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part014_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part015_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part016_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/08 Natures Éphémères_part017_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part001_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part002_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part003_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part004_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part005_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part006_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part007_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part008_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part009_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part010_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part011_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part012_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part013_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part014_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/09 Matières Induites_part015_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/10 Ondes Croisées_part001_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/10 Ondes Croisées_part002_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/10 Ondes Croisées_part003_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/10 Ondes Croisées_part004_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/10 Ondes Croisées_part005_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/10 Ondes Croisées_part006_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/10 Ondes Croisées_part007_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/10 Ondes Croisées_part008_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/10 Ondes Croisées_part009_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part001_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part002_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part003_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part004_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part005_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part006_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part007_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part008_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part009_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part010_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part011_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part012_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part013_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part014_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part015_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part016_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part017_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part018_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/11 Pliens Et Déliés_part019_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part001_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part002_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part003_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part004_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part005_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part006_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part007_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part008_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part009_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part010_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part011_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part012_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part013_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part014_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part015_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part016_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part017_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part018_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part019_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part020_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part021_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part022_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part023_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part024_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part025_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part026_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part027_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part028_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part029_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part030_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part031_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part032_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part033_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part034_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/train/12 Points Contre Champs_part035_000.wav,train
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/01 Incidences_Résonances_part009_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part001_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part002_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part003_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part004_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part005_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part006_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part007_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part008_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part009_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part010_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part011_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part012_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part013_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part014_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part015_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part016_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part017_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part018_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part019_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/02 Accidents_Harmoniques_part020_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/03 Géologie Sonore_part010_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/03 Géologie Sonore_part016_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/03 Géologie Sonore_part017_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/03 Géologie Sonore_part018_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/03 Géologie Sonore_part019_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/04 Dynamique De La Résonance_part001_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/04 Dynamique De La Résonance_part002_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/04 Dynamique De La Résonance_part003_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/04 Dynamique De La Résonance_part004_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/04 Dynamique De La Résonance_part010_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/05 Étude Élastique_part003_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/07 Incidences_Battements_part001_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/07 Incidences_Battements_part002_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/07 Incidences_Battements_part003_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/07 Incidences_Battements_part004_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/07 Incidences_Battements_part005_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/07 Incidences_Battements_part006_000.wav,validation
+/home/alels_star/Desktop/AI_composition_assistant/v0.01/musicgen_wav_generator/retrain_models/musicgen-dreamboothing/punk_dataset/audio/validation/07 Incidences_Battements_part007_000.wav,validation

@@ -1,0 +1,18 @@
+START WRITTING THE THESIS!
+
+ADD TO THE THSIS THE CONCEPT OF METADATA ORGANIZATION THAT IS DONE INSIDE THE GUIS AND ALSO THE UTILIZATION OF THE AI ASISTANT
+
+ADDITIONALLY:
+
+-  IMPROVE /home/alels_star/Desktop/AI_composition_assistant/v0.01/dashboard/dashboardv3.py  
+   --> add more capabillities  (e.g. unity two songs, or crop song etc).
+   
+-  IMPROVE /home/alels_star/Desktop/AI_composition_assistant/v0.01/GUIs/GUI_custom_TCN_wav.py AND 
+           /home/alels_star/Desktop/AI_composition_assistant/v0.01/custom_generators/TCN_wav_generator/initializations.py
+   --> Add a train option too
+   
+           
+           
+           
+           
+           
