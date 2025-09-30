@@ -1,0 +1,13 @@
+Fluidsynth_transformer/Fluidsynth_models/*.sf2 filter=lfs diff=lfs merge=lfs -text
+musicgen_wav_generator/**/*.arrow filter=lfs diff=lfs merge=lfs -text
+musicgen_wav_generator/**/*.pt filter=lfs diff=lfs merge=lfs -text
+musicgen_wav_generator/**/*.safetensors filter=lfs diff=lfs merge=lfs -text
+RAVE_transformer/RAVE_models/*.ts filter=lfs diff=lfs merge=lfs -text
+common_data_space/**/*.wav filter=lfs diff=lfs merge=lfs -text
+custom_generators/**/*.wav filter=lfs diff=lfs merge=lfs -text
+magenta_midi_generator/train/*.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+magenta_midi_generator/models/*.mag filter=lfs diff=lfs merge=lfs -text
+DDSP_transformer/**/ckpt-*.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+dashboard/*.run filter=lfs diff=lfs merge=lfs -text
+custom_generators/TCN_wav_generator/summary_notes_audio.csv filter=lfs diff=lfs merge=lfs -text
+custom_generators/TCN_midi_generator/result_array.csv filter=lfs diff=lfs merge=lfs -text
