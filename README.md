@@ -9,8 +9,8 @@ c) Timbre/style transfer modules (RAVE, DDSP)
 d) MIDI to WAV converters -> Fluidsynth
 e) WAV to MIDI converters -> BasicPitch
 
-#GUIS folder 
+# GUIS:
 Contains individual GUIs for interfacing with the various modules
 
-#Dahboard
+# Dahboard:
 Dashboard implementation with connections to a ChatGPT based aggent and metadata information
