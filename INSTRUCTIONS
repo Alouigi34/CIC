@@ -16,16 +16,6 @@ conda activate AI_composer_GUIs_
 python dashboard_v5.py
 
 
-###################################                        
-SCALING ISSUE WHEN OPENING FILE SELECTION FROM ALL GUIS:
-###################################
-ALSO FOR THIS PC, TO FIX THE ISSUES WITH THE GUIS WHEN YOU OPEN FILE SELECTION (LOOKING TOO SMALL)
-JUST SET SCALING TO 100% (INSTEAD OF 125%)!
-
-
-
-
-
 
 ###################################                        
 INSTRUCTIONS FOR RETRAINING MUSICGEN MODELS:
